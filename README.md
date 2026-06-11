@@ -73,22 +73,6 @@ P(\text{YES} \mid \text{question}, \text{news\_context})
 
 ---
 
-## Структура репозитория
-
-```text
-.
-├── README.md
-├── Datasets/
-├── news_retrieval/
-├── question_generation/
-├── build_hybrid_baseline.ipynb
-├── final_dataset_merged.ipynb
-├── model_training_with_sft.ipynb
-├── polymarket_historical_probability_at_prediction_date.ipynb
-├── polymarket_preprocess_and_finalize.ipynb
-└── Презентация.pptx
-```
-
 ### Кратко о содержимом
 
 #### `Datasets/`
