@@ -1,0 +1,4 @@
+﻿split,rows,positive_rate,brier_model,brier_text_only,brier_market_calibrated,brier_raw_polymarket,used_market_rows,used_text_rows,path
+final_train_data,14340,0.1778940027894003,0.07765802413398654,0.07951379451340171,0.0776173837444989,0.08319268663586343,14176,164,/content/drive/MyDrive/final_data/t4_hybrid_outputs/final_train_data_with_prediction_model.csv
+final_valid_data,2000,0.168,0.06030048260712621,0.14675432643312422,0.05931623573684155,0.05949684876387488,1982,18,/content/drive/MyDrive/final_data/t4_hybrid_outputs/final_valid_data_with_prediction_model.csv
+final_test_data,2000,0.2175,0.07730032587185738,0.14536612266382004,0.07572292247271675,0.07683159474358973,1950,50,/content/drive/MyDrive/final_data/t4_hybrid_outputs/final_test_data_with_prediction_model.csv
